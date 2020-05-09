@@ -19,7 +19,7 @@ def main():
     else:
         print("""
             ************************
-             Data   File    Image
+             Data   Files    Image
             ************************
         """)
         cls = input("请选择文件种类：")
